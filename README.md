@@ -171,4 +171,5 @@ CPU: Multi-core for parallel processing
 License
 
 MIT License — Feel free to modify and use.
-
+My Bitcoin address
+TFbLR3dcZY38uG7Zpv5UB1mPvBqwrJny5e
