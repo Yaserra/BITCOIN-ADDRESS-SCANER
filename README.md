@@ -63,11 +63,6 @@ Configuration is saved across sessions, including loaded files, GUI size, and th
 
 ---
 
-Screenshots
-
-(Add your screenshots here if available.)
-
-
 ---
 
 Usage
